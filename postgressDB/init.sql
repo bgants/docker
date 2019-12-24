@@ -1,0 +1,3 @@
+CREATE USER s_user`;
+CREATE DATABASE sensordb;
+GRANT ALL PRIVILEGES ON DATABASE sensordb TO s_user;
